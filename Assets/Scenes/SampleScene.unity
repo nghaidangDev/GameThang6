@@ -6131,6 +6131,7 @@ MonoBehaviour:
   groundCheck: {fileID: 1384487933}
   wallCheckDistance: 0.5
   wallCheck: {fileID: 659651915}
+  movementForceInAir: 50
 --- !u!95 &1297077419
 Animator:
   serializedVersion: 5
